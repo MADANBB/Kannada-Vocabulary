@@ -1,0 +1,51 @@
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue;
+}
+
+#green{
+    color:green;
+}
+
+#yellow{
+    color:yellow;
+}
+
+#orange{
+    color:orange;
+}
+
+.Color-Title{
+    font-weight: normal;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.8em;
+    font-style: italic;
+    color: #666;
+    margin-top: 20px;
+}
